@@ -1,0 +1,4 @@
+Esse programa encontra-se nos exemplos básicos da IDE do arduino.
+Nele, fazemos uma leitura analógica de tensão num potenciômetro(atenção pois o valor de saída varia de 0 a 1023) e apresentamos o resultado na tela.
+
+o código e demais informações encontram-se em https://www.arduino.cc/en/Tutorial/AnalogReadSerial
