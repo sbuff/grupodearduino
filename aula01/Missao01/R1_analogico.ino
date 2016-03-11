@@ -17,7 +17,7 @@ void loop() {
   /* sabemos que temos uma tensão de entrada em 5V 
   e a leitura analógica nos dá valores de 0 a 1023 para a tensão aferida.
   Portanto:          */
-  float percent= 5.0*sensorValue/1024.0;   // assim, nosso percent nos dará um valor aproximado a tensão em questão
+  float percent= 5.0*sensorValue/1023.0;   // assim, nosso percent nos dará um valor aproximado a tensão em questão
   // print out the value you read:
   Serial.println(sensorValue); // aqui imprimiremos no serial Monitor o valor mensurado
   delay(300); // estamos dando um intervalo de 300ms      
