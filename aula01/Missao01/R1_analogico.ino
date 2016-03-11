@@ -22,3 +22,5 @@ void loop() {
   Serial.println(sensorValue); // aqui imprimiremos no serial Monitor o valor mensurado
   delay(300); // estamos dando um intervalo de 300ms      
 };
+// Sempre lembre-se de abrir e fechar o código com {}
+// Além de colocar o ";" ao fim de cada linha de comando
