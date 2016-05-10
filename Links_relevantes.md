@@ -2,11 +2,11 @@ Aqui postaremos links para compra de componentes, além de softwares/sites inter
 
 ###Compra de componentes
 
-####    BR
+  ####    BR
 - <https://www.robocore.net/>
 - <http://www.filipeflop.com/>
 
-####    MUNDO
+  ####    MUNDO
 - <https://www.adafruit.com/>
 
 ---
